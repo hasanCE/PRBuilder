@@ -15,6 +15,5 @@ public class PRBuild {
 
         System.out.println("first pr request and builder in jenkins");
 
-
     }
 }
